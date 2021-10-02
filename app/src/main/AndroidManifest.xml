@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.udaan_tech.myfc">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyFC">
+        <activity android:name=".SplasherActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".OrderShopActivity" />
+        <activity android:name=".OrdersActivity" />
+        <activity android:name=".PaymentActivity" />
+        <activity android:name=".CartActivity" />
+        <activity android:name=".MainListActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".UserProfileEditActivity" />
+        <activity android:name=".ShopMainActivity" />
+        <activity android:name=".NewProdActivity" />
+        <activity android:name=".ShopProfileEditActivity" />
+        <activity android:name=".ShopProfileActivity" />
+        <activity android:name=".ShopHomeActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

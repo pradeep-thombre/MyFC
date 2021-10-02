@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My FC</string>
+    <string-array name="Select_Location">\
+        <item>Select Location</item>
+        <item>Pune</item>
+        <item>Mysore</item>
+        <item>Hyderabad</item>
+        <item>Bangalore</item>
+        <item>Chandigarh</item>
+        <item>Mangalore</item>
+        <item>Chennai</item>
+        <item>Bhubaneshwar</item>
+        <item>Nagpur</item>
+        <item>Jaipur</item>
+        <item>Amritsar</item>
+    </string-array>
+    <string-array name="Select_Category">\
+        <item>Select Category</item>
+        <item>Breakfast</item>
+        <item>Snacks</item>
+        <item>Juices, Cold Drinks</item>
+        <item>Pizza, Cakes and Pastry</item>
+        <item>Tea, Coffee and Milk</item>
+        <item>North Indian</item>
+        <item>South Indian</item>
+        <item>Chinese</item>
+        <item>Fruits</item>
+        <item>NonVeg</item>
+        <item>Others</item>
+    </string-array>
+</resources>

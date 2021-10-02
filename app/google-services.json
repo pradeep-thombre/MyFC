@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758221266615",
+    "firebase_url": "https://myfc-13fd6.firebaseio.com",
+    "project_id": "myfc-13fd6",
+    "storage_bucket": "myfc-13fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758221266615:android:229822eb6e619f5870b732",
+        "android_client_info": {
+          "package_name": "com.udaan_tech.myfc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758221266615-2iebl61rhlt4obt2k6mf94dclvegb1me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYzxXITmONsCtwDzIkH2tvuqrMINCU2kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758221266615-2iebl61rhlt4obt2k6mf94dclvegb1me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
